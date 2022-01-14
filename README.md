@@ -1,6 +1,6 @@
 # CRUD-Spring-Boot-JPA-MySQL Boiler plate
 
-# CRUD Example of Spring-Boot-REST-JPA-MySQL (CourseList)
+
 
 ### 1. You can clone it from github by running following command
 
